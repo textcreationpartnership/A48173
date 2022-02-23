@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter to a friend in the country touching the present fears and jealousies of the nation and how they arise</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48173</idno>
+            <idno type="STC">Wing L1652</idno>
+            <idno type="STC">ESTC R36356</idno>
+            <idno type="EEBO-CITATION">15667445</idno>
+            <idno type="OCLC">ocm 15667445</idno>
+            <idno type="VID">104329</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48173)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104329)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1152:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter to a friend in the country touching the present fears and jealousies of the nation and how they arise</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Signed: Your friend and servant.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  England --  Controversial literature.</term>
+               <term>Freedom of religion --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:104329:1" rendition="simple:additions"/>
+            <head>A LETTER TO <hi>A Friend in the Country,</hi> Touching the preſent Fears and Jealouſies of the <hi>Nation,</hi> and from whence they Ariſe.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Received yours the 10th. inſtant, and maturely deliberating thereupon, I reſolved to give you ſome ſatisfaction in your Requeſt, or at leaſt endea<g ref="char:EOLhyphen"/>vour it, and that as briefly as I can. The preſent Jealouſies which do poſſeſs the minds of the People, eſpecially the vulgar ſort, may ſolely be attributed to the great increaſe of Sects and Factions amongſt us, who though they differ in ſome points of Religion, yet the averſion of them all is the ſame to the Church of <hi>England.</hi> I deſire you only to peruſe the Records of 40 and 41. and thereby you will plainly ſee their pretence to Religion and Reformation, and their intention to Rebellion, <hi>&amp;c.</hi> Theſe preſent Times may very well pa<g ref="char:EOLhyphen"/>rallel with thoſe; it is juſt as if the old Game was playing over again: 1. In their ſeditious and factious Pamphlets, thereby endeavouring to render the preſent Government odious to the People. 2. Their aſperſing and calumniating the Miniſters of State, as being Popiſhly affected. 3. Their Whiſperings at Coffee-houſes, (their common places of Rendezvous) of the fears and appre<g ref="char:EOLhyphen"/>henſions they have of an Arbitrary Government; theſe ſeem exactly to be Uſhers on to the Good old Cauſe. Theſe Factions are ſo increaſed ſince the Toleration, that by their boaſtings of their numbers, and that they are ſuch a conſiderable part of the Nation, they almoſt contemn Authority; the Conven<g ref="char:EOLhyphen"/>ticles being now more in number than the Pariſh Churches, by reaſon the pe<g ref="char:EOLhyphen"/>nal Laws are not put in execution againſt them. The factious uſe divers ways and means to draw away the people to become their Proſelytes, by their con<g ref="char:EOLhyphen"/>temning and ſcandalizing the Biſhops, and the inferior Clergy of the Church of <hi>England,</hi> and by their deſpiſing of the Liturgy and ſet Forms of Prayer and dull and dead. In the next place I ſhall endeavour to give you the Character of a Conventicle.</p>
+            <p>The Son of the Church being mounted up into the Pulpit, and placing the Cuſhion for the eaſe of his Elbows, and giving the un-Canonical Cloak a twitch or two, or if the weather be hot, lay it aſide, that he may not appear la<g ref="char:EOLhyphen"/>zy by threſhing in his Cloak; and which is a ſure ſign, he beginning to begin, having rolled his Eyes about, as if he were falling into a Trance, he faintly be<g ref="char:EOLhyphen"/>gins
+<pb n="2" facs="tcp:104329:2"/>with a languiſhing tone, which as the holy fire of Zeal, comes gradually, by motion gathers heat, advances ſtill higher and higher, till at length being h toughly warm, like a Pot with too much fire under it, the ſcum of his Brains boyls over, and he tumbles his Expreſſions with that ardor and precipitation, that every word treads upon the heels of another, and puſhes it forward; or does it import whether the Expreſſions be congruous, and whether it may be decent, ſo long as they are but paſſionate and vehement, and at every third or fourth ſentence crying, <hi>Lord, Lord,</hi> at which the people are ſtrangely melted, ſome into ſighs and groans, ſome into tears, which are the Hums and Plaudites of a Conventicle. Now though he pretends to hate all Forms, yet he is not without a Method; therefore he begins with Confeſſion, and tells a parcel of notorious untruths in the name of the people, and will be perſwaded he knows them too, ſaying, <hi>We have been guilty of all the ſins of Omiſſion and Commiſſion,</hi> and it may be gives a Catalogue of them, ſome of which the Hearers may be ſo far from being guilty of, that poſſibly they never heard of them before; and after this rate he goes on, being obliged to a conſtant uſe of a little Book, by name, <hi>The Gift of Prayer.</hi> There is one general Rule which St. <hi>Paul</hi> gives for publick Prayers; <hi>I exhort that first of all Supplications, Prayers, Interceſſions, and giving of thanks, he made for all men, for Kings, and all that are put in Au<g ref="char:EOLhyphen"/>thority.</hi> But for all this, in a two hours Prayer, firſt or laſt, you ſhall have but little of that; or if the King be named, his Titles of Supremacy are not recited, or at moſt but half way; or if he be faintly acknowledged the <hi>Defender of the Faith,</hi> it muſt not be ſaid that he is <hi>Supream in all Cauſes as well Eccleſiastical as Civil;</hi> for you muſt know, a <hi>Presbyter</hi> is as great an Enemy to the Supremacy as a <hi>Papiſt.</hi> As for <hi>Our moſt Gracious Queen, and</hi> James <hi>Duke of</hi> York, <hi>and the reſt of the Royal Family,</hi> the <hi>Biſhops and Clergy,</hi> they never come in their mouths; ſo that the Apoſtle's general Rule, <hi>Eſpecially pray for all men in Autho<g ref="char:EOLhyphen"/>rity,</hi> muſt be liable to an exception, or elſe <hi>Queens, Dukes,</hi> and <hi>Biſhops,</hi> are no body with them, or not in Authority. There is nothing which has gained theſe men that Veneration amongſt the Vulgar, as this Impoſture has done, which they endeavour to impoſe upon eaſie beliefs, whilſt they pretend in theſe <hi>extem<g ref="char:EOLhyphen"/>pore</hi> effuſions to be immediately inſpired by the holy Spirit, which all Diſſen<g ref="char:EOLhyphen"/>ters cannot be, and I am afraid none of them are. The Apoſtle St. <hi>Paul</hi> ſpeaks of <hi>praying with the Spirit;</hi> but it is manifeſt he means there, that miraculous effuſion of the holy Ghoſt, which gave them utterance in divers Languages; and let me hear any one of theſe men pray in Latin as fluently as they do in Engliſh, and I will believe they pray by the Spirit; ſome of their Prayers are ſcarce tolerably true Engliſh: But it ſuffices, they ſay it is by the Spirit, and the people believe, and do from hence conclude, theſe are the beſt men in the World having the Spirit in ſuch an extraordinary meaſure above others. And this is not the ſmalleſt Engine they make uſe of, to undermine the Church of <hi>England,</hi> and to render the ſolemn Service of God contemptible, all ſet Forms, as they ſay, being dull, flat, dead, <hi>&amp;c.</hi> though they are in a great meaſure the expreſs words of Scripture, and warranted from the ancient uſage of the Church, if not from the Apoſtolical times, at leaſt from the next and immediate Age unto them. Now that we may diſcover the greatneſs of this dangerous and popular Cheat, we will firſt make our Appeal to their own Judg, the Scripture, where our bleſſed Saviour himſelf gives an expreſs charge againſt Battologies, and much ſpeaking in our Prayers, and commands a ſhort Prayer, and a ſet Form too; whatever long Prayer may be, it looks like Hypocriſie:
+<pb n="3" facs="tcp:104329:2"/>but, ſays he, <hi>when you pray, ſay, Our Father,</hi> &amp;c. How well they obſerved this Rule, we need not trouble our ſelves further to find out, ſince it is not very many years ago that the <hi>Lords Prayer</hi> was generally out of faſhion in the Pul<g ref="char:EOLhyphen"/>pit, and ſo it is ſtill amongſt many Diſſenters; and yet then they would have us believe they prayed by the Spirit, as well as they do now: and I believe they did, but it muſt be by the ſame Spirit that made <hi>Saul</hi> throw his Javelin at the Muſician. Further, if we examine the Fruits of the Spirit, they are Love, Joy, Peace, <hi>&amp;c.</hi> but not the leaſt mention of <hi>extempore</hi> Prayer, and the Gifts of the Spirit are Continency, Prophecy, Miracles, <hi>&amp;c</hi> but no Gift of Prayer. Certainly if it had been a Fruit of the Spirit, or a Gift of the Spirit, it would not have been omitted. But let us appeal to Example; for if it be a Fruit of the Spirit, then all they who can or could pray thus <hi>extempore,</hi> have the Spirit of God. This is as much a demonſtance as can be, for now I will bring you ſuch an Army of Saints, as ſhall Pray and Fight with all Nations, with Old <hi>Nol</hi> in the head of them; <hi>viz.</hi> St. <hi>Oliver,</hi> St. <hi>Bradſhaw,</hi> St. <hi>Ireton, &amp;c.</hi> either theſe Saints prayed by the Spirit, and ſo were real Saints, or what they prayed was not by the Spirit, and ſo were no Saints, nor <hi>extempore</hi> Prayer any evidence of the Spirit of God. I will now appeal to theſe men, let them ſpeak the Truth, and ſhame the Devil, Is not this way of praying an Acquiſition? Did not the aforementioned Book, or ſome Collections of their own out of Scripture, often hearing of others, many ſecret Tryals and Exer<g ref="char:EOLhyphen"/>ciſes therein, bring them to theſe perfections? or could they from the firſt mo<g ref="char:EOLhyphen"/>ment of their Converſion pray thus? and they do as punctually remember that time, as what they did yeſterday; and then if ever they had the Spirit of God, it was as well able to help them as now, and they ſtood more in need of it; and it would have been more viſible and apparent, that it was not they, but the Spirit taught them what to pray. Did they not with much pains and induſtry attain this which they call a Gift? let them deny it if they dare; for if they will ſay they never uſed any of the aforeſaid means to help their weak<g ref="char:EOLhyphen"/>neſſes, I will undertake to prove them the moſt impudent affirmers of a noto<g ref="char:EOLhyphen"/>rious untruth: for many of their expreſſions are sentences pickt out of the Bible, which they read over often, more for the reſpect of getting Praying-Phraſes out of it, then for their being informed of their Duty towards God and Men. They have alſo ſo many Phantaſtical, uncommon words of their own Mintage, and ſuch a ſingularity of In-comings, and Out-goings, and In-dwellings, and I know not what, which like the wild Gourd, ſpoil all the Pottage. Some of them ſtuff their heads with Notions what to ſpeak on a ſudden occaſion; and thoſe which have experienced can tell, that if a man has but the Notions he intends to ſpeak, it is far eaſier to pray this way, then otherwiſe; the charge of Generals to the memory, being leſs burthenſom then Particulars. And if a man has but a ſmooth and voluble Tongue, he affords ſuch hints, which being improved with advantage, do ſurprize the Speakers and Hearers with Novelties and Agreeableneſs. And this is the Art of Prayer; a meer Art it is, which if a man has a good ſtock of Confidence, he may ſoon arrive at, and the ſooner the more Ignorant he is; becauſe he will be propor<g ref="char:EOLhyphen"/>tionably more conceited of himſelf, which is the reaſon why ſo many Mecha<g ref="char:EOLhyphen"/>nicks, who can hardly ſpeak ſence in common diſcourſe, will ſteal expreſſions, which with ſome Directions and Tryals, will ſoon make them proficient in it. If one would take the pains to write one of their Preachers Prayers for three or four times, he would find it would be all to the ſame purpoſe at one time,
+<pb n="4" facs="tcp:104329:3"/>as at another, only ſome Sentences miſplaced. He being now come to his Text; I will leave him, becauſe he runs ſo far from it, that I cannot follow him: but if you deſire to ſatisfie your curioſity further, you may only go to a Conven<g ref="char:EOLhyphen"/>ticle, which I am ſure you may do without riding 10 miles.</p>
+            <p>The Principles of this <hi>Geneva</hi> off-ſpring are ſo contrary and averſe to <hi>Epiſ<g ref="char:EOLhyphen"/>copacy,</hi> and therefore conſequently to <hi>Monarchy</hi> it ſelf, that by uſing their old Aphoriſm to ſcandalize and ſlander the Clergy, even as they did to his late moſt Sacred Majeſty of bleſſed memory, ſaying, <hi>Let us blacken, let us blacken, ſome will believe it:</hi> And thereby rendring the Church-Government to be Superſtitious, as they are pleaſed to call the Holy Rites and Ceremonies of the ſame. As for the State, they hold their old Maxims, <hi>viz. Salus Popuit est Suprema Lex,</hi> and that a King is <hi>Major Singulis &amp; Minor <g ref="char:V">Ʋ</g>niverſalis;</hi> Theſe ſort of men will ſeldom ſpeak any thing in favour of the Court, unleſs it be for the <hi>Act of Oblivion,</hi> and <hi>Toleration;</hi> but as for any other proceedings, they will always interpret them to the worſt ſence, which cauſes ſuch Murmur<g ref="char:EOLhyphen"/>ings and Diſtractions in the hearts of the Ignorant ſort of People. Theſe men on the one ſide, and the <hi>Papiſtical Crew</hi> on the other, are fit Inſtruments to blow a Kingdom into Rebellion, but I hope opportunity will be wanting for either of them to act. The Diſcoverers of the <hi>Plot</hi> tell us, that the <hi>Jeſuits</hi> come hither under the notion of <hi>Presbyterian Ministers,</hi> and truly I think that is as fit a way as any to accompliſh their Deſigns; and I fear, and it is very pro<g ref="char:EOLhyphen"/>bable we have a great number of them amongſt us ſtill, and therefore it is im<g ref="char:EOLhyphen"/>poſſible to root the <hi>Jeſuits</hi> out, unleſs the other Party and their Miniſters be ſuppreſſed, for that is the <hi>Jeſuits</hi> only Back-door to moleſt us by, and inſinuate Rebellion into the diſaffected People. I could ſay much more to this purpoſe, but being unwilling to trouble you any further, I draw to a termination for this time:</p>
+            <closer>
+               <signed>Sir, Your Real Friend and Servant.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
